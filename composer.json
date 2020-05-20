@@ -1,0 +1,14 @@
+{
+    "name": "z/hw3",
+    "authors": [
+        {
+            "name": "z",
+            "email": "yurka1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
